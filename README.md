@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### An Awesome Todo App Sneek Peek
 To learn React and Java please mail me `developerport.co@gmail.com`
 
-![GitHub Logo](/public/image.png)
+![GitHub Logo](/public/image.PNG)
 
 
 **Here you Go !!**
